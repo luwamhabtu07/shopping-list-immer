@@ -16,4 +16,4 @@ Node.js (v16 or higher recommended)
 npm (comes with Node.js)
 🛠 Installation
 
-Clone the repository:
+Clone the repository:https://github.com/luwamhabtu07/shopping-list-immer.git
